@@ -14,3 +14,15 @@ I aim to use my technological expertise to build innovative solutions and work w
 
 
 Feel free to check out my repositories below and let's collaborate on exciting projects!
+
+
+## 📊 GitHub Stats
+![Ameni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amenibensaada&show_icons=true&theme=radical)
+
+## 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
