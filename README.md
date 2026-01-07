@@ -68,7 +68,7 @@ Scalable booking system built with **microservices architecture**. Implemented s
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amenibensaada&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amenibensaada&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amenibensaada&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amenibensaada&layout=compact&theme=tokyonight)
 ---
 
 ## ✍️ Latest Blog Posts
