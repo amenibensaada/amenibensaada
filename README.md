@@ -1,6 +1,6 @@
 # Hi, I'm Ameni Ben Saada 👋
 
-**Full-Stack Engineer @ [Víkonnekt](https://vikonnekt.com) | AI Integration & DevOps | ESPRIT Highest Honors Graduate 🎓**
+**Full-Stack Engineer | AI Integration & DevOps | ESPRIT Highest Honors Graduate 🎓**
 
 I build scalable, intelligent applications by combining **full-stack development**, **AI/LLM integration**, and **DevOps practices**. Passionate about creating production-ready solutions with modern tech stacks.
 
@@ -65,10 +65,10 @@ Scalable booking system built with **microservices architecture**. Implemented s
 
 ## 📊 GitHub Stats
 
-![Ameni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amenibensaada&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amenibensaada&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amenibensaada&layout=compact&theme=radical&hide_border=true)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amenibensaada&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amenibensaada&theme=tokyonight)
 ---
 
 ## ✍️ Latest Blog Posts
