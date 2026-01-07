@@ -1,6 +1,6 @@
 # Hi, I'm Ameni Ben Saada 👋
 
-**Full-Stack Engineer | AI Integration & DevOps | ESPRIT Highest Honors Graduate 🎓**
+**Software Engineer | AI Integration & DevOps | ESPRIT Highest Honors Graduate 🎓**
 
 I build scalable, intelligent applications by combining **full-stack development**, **AI/LLM integration**, and **DevOps practices**. Passionate about creating production-ready solutions with modern tech stacks.
 
