@@ -6,7 +6,7 @@ I work across full-stack development, AI integration and DevOps. At Vikonnekt, I
 
 Open to freelance projects and full-time software engineering roles. English, French and Arabic · UTC+1.
 
-[Portfolio](https://amenibensaadaportfolio.netlify.app/?utm_source=github&utm_medium=profile&utm_campaign=personal_brand) · [LinkedIn](https://www.linkedin.com/in/amenibensaada/) · [Upwork](https://www.upwork.com/freelancers/~01fa8d0bff231fc875) · [Email](mailto:b.saada.ameni@gmail.com)
+[Portfolio](https://amenibensaada.tn/?utm_source=github&utm_medium=profile&utm_campaign=personal_brand) · [LinkedIn](https://www.linkedin.com/in/amenibensaada/) · [Upwork](https://www.upwork.com/freelancers/~01fa8d0bff231fc875) · [Email](mailto:b.saada.ameni@gmail.com)
 
 ## What I build
 
@@ -22,7 +22,7 @@ Open to freelance projects and full-time software engineering roles. English, Fr
 | **Treyst · Vikonnekt** | Regulatory-document versioning and AI extraction, monitoring-queue interfaces, API reliability/security, and CI/CD with cloud deployments across environments, including production. |
 | **Feetrack · Vikonnekt** | Stripe subscription/billing features, an analytics dashboard and React Query data fetching. |
 | **[Aitellu · Vikonnekt](https://www.vikonnekt.com/internal-projects/aitellu/)** | Bilingual story generation with the OpenAI API and Valitor payments connected to plan limits and payment checks. |
-| **[TeamDoc · team project](https://amenibensaadaportfolio.netlify.app/?utm_source=github&utm_medium=profile&utm_campaign=personal_brand#projects)** | Block editing, speech-to-text, a translation integration and an OpenAI assistant in a React/NestJS/MongoDB document workspace. |
+| **[TeamDoc · team project](https://amenibensaada.tn/?utm_source=github&utm_medium=profile&utm_campaign=personal_brand#projects)** | Block editing, speech-to-text, a translation integration and an OpenAI assistant in a React/NestJS/MongoDB document workspace. |
 | **[University housing microservices · academic team project](https://github.com/amenibensaada/MicroService)** | Node.js/Express reservation service with MongoDB/Mongoose and Eureka registration, within a wider Angular/Spring Boot architecture. |
 
 Professional project descriptions summarize my contributions. Screenshots and project notes are available in the portfolio; employer source code remains private. Older public repositories include academic projects and learning exercises.
